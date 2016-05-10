@@ -1,2 +1,1 @@
-# tutorial-gae
-Tutorial GAE
+# Tutorial GAE
